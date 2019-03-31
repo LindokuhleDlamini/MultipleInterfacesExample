@@ -1,0 +1,7 @@
+D:\Workspace\MultipleInterfacesExample\MultipleInterfacesExample\bin\Debug\MultipleInterfacesExample.exe.config
+D:\Workspace\MultipleInterfacesExample\MultipleInterfacesExample\bin\Debug\MultipleInterfacesExample.exe
+D:\Workspace\MultipleInterfacesExample\MultipleInterfacesExample\bin\Debug\MultipleInterfacesExample.pdb
+D:\Workspace\MultipleInterfacesExample\MultipleInterfacesExample\obj\Debug\MultipleInterfacesExample.csprojResolveAssemblyReference.cache
+D:\Workspace\MultipleInterfacesExample\MultipleInterfacesExample\obj\Debug\MultipleInterfacesExample.csproj.CoreCompileInputs.cache
+D:\Workspace\MultipleInterfacesExample\MultipleInterfacesExample\obj\Debug\MultipleInterfacesExample.exe
+D:\Workspace\MultipleInterfacesExample\MultipleInterfacesExample\obj\Debug\MultipleInterfacesExample.pdb
